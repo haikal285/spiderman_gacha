@@ -52,6 +52,7 @@ const ultraman = {
     name: "tiga",
     height: 168,
     isDead: false,
+    color: "blue",
     attack: () => {
         console.log("sword atttack!")
     },
